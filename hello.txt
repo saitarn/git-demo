@@ -1,2 +1,4 @@
 test file
-edit file after git ignore
+edit file after git ignor 
+
+test
